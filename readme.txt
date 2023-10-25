@@ -1,7 +1,5 @@
 # Rating Web Application
 
-![Project Preview](screenshot1.png, screenshot2.png)
-
 This web project is a simple rating application that allows users to provide feedback and rate a service.
 It consists of two main pages: a rating page and a thank you page. 
 The rating page lets users select a rating from 1 to 5, and upon submission, they are redirected to the thank you page, where their rating is displayed.
@@ -83,5 +81,3 @@ Feel free to explore the code and learn from the project. If you have any questi
 
 Challenge by [Frontend Mentor](https://www.frontendmentor.io).
 Coded by [Fortune Oguibe](https://github.com/foguibe).
-
-Happy coding!
